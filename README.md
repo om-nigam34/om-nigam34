@@ -60,6 +60,8 @@
 
 <p align="center">
 <img src="https://github-stats-extended.vercel.app/api?username=om-nigam34&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+<p align="center">
 <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=om-nigam34&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 <p align="center">
