@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Om%20Nigam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Development%20Intern%20%7C%202026&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2F81F7&height=200&section=header&text=Om%20Nigam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&descAlignY=55&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+PSIT+Kanpur;Java+%7C+Python+%7C+SQL+%7C+DSA;260%2B+LeetCode+Problems+Solved;Building+HirePilot+-+AI+Career+Agent" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&background=0D111700&center=true&vCenter=true&width=600&lines=B.Tech+ECE+%40+PSIT+Kanpur;Java+%7C+Python+%7C+SQL;260%2B+LeetCode+Problems+Solved;Building+HirePilot+-+AI+Career+Agent" alt="Typing SVG" />
 
 <p>
 <a href="https://www.linkedin.com/in/om-nigam-208387343"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -56,22 +56,11 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-### 🚀 Featured Projects
-
-<p>
-<a href="https://github.com/om-nigam34/Hire-Pilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=Hire-Pilot-AI&theme=tokyonight&hide_border=true" /></a>
-<p>
-<a href="https://github.com/om-nigam34"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=Calculator-using-python&theme=tokyonight&hide_border=true" /></a>
-</p>
-
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
-
 ### 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=om-nigam34&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=om-nigam34&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
+<img src="https://github-stats-extended.vercel.app/api?username=om-nigam34&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=om-nigam34&layout=compact&theme=tokyonight&hide_border=true" width="30%" />
 </p>
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=om-nigam34&theme=tokyonight&hide_border=true" width="60%" />
