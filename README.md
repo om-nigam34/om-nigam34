@@ -43,14 +43,15 @@
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white">
 </p>
 
-**Tools & Platforms**
+**Tools & Hardware**
+
 <p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
-<img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white">
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+<img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi">
 </p>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
@@ -58,13 +59,11 @@
 ### 🚀 Featured Projects
 
 <p>
-<a href="https://github.com/om-nigam34/Hire-Pilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=HirePilot&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/om-nigam34"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=om-nigam34&theme=tokyonight&hide_border=true" /></a>
-</p>
+<a href="https://github.com/om-nigam34/Hire-Pilot-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=Hire-Pilot-AI&theme=tokyonight&hide_border=true" /></a>
 <p>
-<a href="https://github.com/om-nigam34"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=om-nigam34&theme=tokyonight&hide_border=true" /></a>
-<a href="https://github.com/om-nigam34"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=om-nigam34&theme=tokyonight&hide_border=true" /></a>
+<a href="https://github.com/om-nigam34"><img src="https://github-readme-stats.vercel.app/api/pin/?username=om-nigam34&repo=Calculator-using-python&theme=tokyonight&hide_border=true" /></a>
 </p>
+
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
