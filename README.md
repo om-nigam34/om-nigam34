@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 3rd-year **B.Tech ECE** student at Pranveer Singh Institute of Technology, Kanpur — graduating **2028**
-- 🧠 Solved **260+ problems on LeetCode**
+- 🧠 Solved **300+ problems on LeetCode**
 - 🛠️ Currently building **HirePilot** — an AI-powered career-prep agent using chained LLM calls
 - 📚 Strong fundamentals in **DSA, OOP, and problem solving**, moving into full-stack and ML-backed projects
 - ⚡ Fun fact: I care more about clean, working code than flashy code — direct feedback > false praise
