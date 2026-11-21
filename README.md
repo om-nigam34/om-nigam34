@@ -3,7 +3,7 @@
 <img src="assets/banner.svg" alt="Om Nigam" width="100%"/>
 
 <a href="https://github.com/om-nigam34">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=B.Tech+ECE+%40+PSIT+Kanpur+%7C+Batch+2028;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Flask;400%2B+LeetCode+problems+solved;Exploring+AI%2FML+and+LLM+applications;Open+to+SDE+and+AI%2FML+internships" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=B.Tech+ECE+%40+PSIT+Kanpur+%7C+Batch+2028;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Flask;400%2B+LeetCode+problems+solved;Exploring+AI%2FML+and+LLM+applications" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -22,10 +22,9 @@
 
 - 🎓 3rd-year **B.Tech ECE** student at **Pranveer Singh Institute of Technology, Kanpur** (2024 – 2028)
 - 🧠 Solved **400+ problems on LeetCode**
-- 📚 Strong fundamentals in **DSA, OOP and problem solving**
+- 📚 Strong fundamentals in **DSA, OOP and DBMS**
 - 💻 I build backend services and LLM-backed applications
 - 📈 Currently learning **ML and deep learning**
-- 🎯 Open to **Software Development and AI/ML internships**
 - ⚡ I care more about clean, working code than flashy code. Direct feedback beats false praise.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
@@ -48,7 +47,7 @@
 | **Backend** | Flask, REST APIs, SQLite |
 | **AI / ML** | LLM APIs, Sentence-Transformers, scikit-learn, NumPy, Pandas, Matplotlib |
 | **Tools** | Git, GitHub, VS Code |
-| **Core CS** | Data Structures and Algorithms, OOP |
+| **Core CS** | Data Structures and Algorithms, OOP, DBMS |
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
 
@@ -95,7 +94,7 @@
 
 - 🔭 Learning ML and deep learning
 - 💻 Practising DSA daily and growing my LeetCode count
-- 🤝 Open to internships, collaborations and good conversations
+- 🤝 Open to work, collaborations and good conversations
 
 <div align="center">
 <br/>
