@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=220&section=header&text=Om%20Nigam&fontSize=64&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=B.Tech%20ECE%20%7C%20Software%20%26%20AI%2FML&descSize=20&descAlignY=58" width="100%"/>
+<img src="assets/banner.svg" alt="Om Nigam" width="100%"/>
 
 <a href="https://github.com/om-nigam34">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=720&height=50&lines=B.Tech+ECE+%40+PSIT+Kanpur+%7C+Batch+2028;Java+%C2%B7+Python+%C2%B7+SQL+%C2%B7+Flask;400%2B+LeetCode+problems+solved;Exploring+AI%2FML+and+LLM+applications;Open+to+SDE+and+AI%2FML+internships" alt="Typing SVG" />
@@ -33,7 +33,11 @@
 ## 🧰 Tech Stack
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=java,python,js,mysql,sqlite,flask,numpy,pandas,sklearn,git,github,vscode&theme=dark&perline=12" />
+<img src="https://skillicons.dev/icons?i=java,python,js,mysql,sqlite,flask,sklearn,git,github,vscode&theme=dark&perline=10" />
+<br/><br/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </div>
 
 <br/>
@@ -97,5 +101,5 @@
 <br/>
 <img src="https://komarev.com/ghpvc/?username=om-nigam34&style=for-the-badge&color=58A6FF" alt="profile views" />
 <br/><br/>
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=120&section=footer&animation=twinkling" width="100%"/>
+<img src="assets/footer.svg" alt="footer" width="100%"/>
 </div>
